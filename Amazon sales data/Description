@@ -1,1 +1,26 @@
+📦 Amazon Sales Data Analysis Using Python
+This project presents an in-depth Exploratory Data Analysis (EDA) of Amazon sales data using Python. The goal is to uncover key insights, identify trends, and understand sales performance across various dimensions such as product categories, regions, and time periods.
 
+📊 Project Objectives
+Perform data cleaning and preprocessing to handle missing values and inconsistencies.
+
+Analyze sales trends over time (monthly, quarterly, yearly).
+
+Identify top-performing products and categories.
+
+Examine regional or city-level sales performance.
+
+Visualize customer purchasing behavior and order volumes.
+
+Provide actionable business insights through data visualization.
+
+🛠️ Tools & Libraries Used
+Python for scripting and analysis
+
+Pandas for data manipulation and analysis
+
+Matplotlib and Seaborn for data visualization
+
+NumPy for numerical operations
+
+(Optional) Plotly for interactive charts
